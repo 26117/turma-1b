@@ -1,2 +1,2 @@
-# turma-1b 
-arquivo da aula de pensamento computacional
+# turma-2A
+arquivo da aula de programação
